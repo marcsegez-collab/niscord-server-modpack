@@ -1,10 +1,10 @@
 {
   "name": "Ñiscord Server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minecraft": "1.20.1",
   "forge": "47.4.4",
   "server": {
-    "address": "roosevelt-preston.tun.ply.gg",
+    "address": "schmidt-goals.tun.ply.gg",
     "port": 25565
   },
   "download": {
