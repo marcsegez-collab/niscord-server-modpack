@@ -1,6 +1,6 @@
 {
   "name": "Ñiscord Server",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "minecraft": "1.20.1",
   "forge": "47.4.4",
   "server": {
@@ -8,8 +8,8 @@
     "port": 25565
   },
   "download": {
-    "url": "https://github.com/marcsegez-collab/niscord-server-modpack/releases/download/v1.0.6/niscord-modpack-1.0.6.zip",
-    "file": "niscord-modpack-1.0.6.zip",
+    "url": "https://github.com/marcsegez-collab/niscord-server-modpack/releases/download/v1.0.7/niscord-modpack-1.0.7.zip",
+    "file": "niscord-modpack-1.0.7.zip",
     "sha256": "AUTO"
   }
 }
