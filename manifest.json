@@ -8,8 +8,8 @@
     "port": 25696
   },
   "download": {
-    "url": "https://github.com/marcsegez-collab/niscord-server-modpack/releases/download/v1.0.9/niscord-modpack-1.0.9.zip",
-    "file": "niscord-modpack-1.0.9.zip",
-    "sha256": "AUTO"
+    "url": "https://github.com/marcsegez-collab/niscord-server-modpack/releases/download/v1.0.9/Niscord.Server.Modpack.1.0.9.zip",
+    "file": "Niscord.Server.Modpack.1.0.9.zip",
+    "sha256": "b2e0640a24644cb809ba3ed7d10056d729d2c74391de1935b2987cb3de779074"
   }
 }
